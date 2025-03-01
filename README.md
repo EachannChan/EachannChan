@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Contact me on eachannchan@qq.com!
 <!--
 **EachannChan/EachannChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on how to code correctly
+- 🌱 I’m currently learning something I don`t know
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EachannChan)](https://github.com/ashutosh00710/github-readme-activity-graph)
